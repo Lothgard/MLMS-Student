@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <TextView
+        android:id="@+id/lbl_student_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="By Juan Dela Cruz"
+        android:textColor="@android:color/darker_gray" />
+
+    <TextView
+        android:id="@+id/lbl_question"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="Q: When will be the quiz for this lecture?"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/lbl_answer"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="A: There will be a quiz tomorrow"
+        android:textAppearance="?android:textAppearanceMedium" />
+
+</LinearLayout>

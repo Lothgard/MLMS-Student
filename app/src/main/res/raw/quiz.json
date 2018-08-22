@@ -1,0 +1,20 @@
+{
+  "id": "0000011111 (For answer send tracking)",
+  "name": "Name of Quiz",
+  "subject": "Subject of Quiz",
+  "teacherId": "Teacher who gave the quiz",
+  "teacherName": "Name of teacher who gave the quiz",
+  "items": [
+    {
+      "questionNo": "1 (For answer send tracking)",
+      "question": "Sample quiz question",
+      "choices": [
+        "Answer A",
+        "Answer B",
+        "Answer C",
+        "Answer D"
+      ],
+      "correctAnswer": "a"
+    }
+  ]
+}

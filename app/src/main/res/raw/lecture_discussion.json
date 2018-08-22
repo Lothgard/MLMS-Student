@@ -1,0 +1,12 @@
+{
+  "title": "titleBar",
+  "description": "descriptionFoo",
+  "discussion": [
+    {
+      "question": "Sample Question",
+      "questionBy": "Student Name or Anonymous",
+      "answer": "Sample Answer",
+      "answerBy": "Teacher name"
+    }
+  ]
+}

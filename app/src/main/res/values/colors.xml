@@ -15,4 +15,5 @@
     <color name="darkOliveGreen">#71643B</color>
 
     <color name="windowBackground">#f2f2f2</color>
+    <color name="textColor">#212121</color>
 </resources>

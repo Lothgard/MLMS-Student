@@ -16,11 +16,34 @@
     <string name="sign_in_here">Sign in here</string>
 
     <string name="module_attendance">Check attendance</string>
-    <string name="module_quiz">Manage Quiz</string>
+    <string name="module_quiz">Start Quiz</string>
     <string name="module_lesson">Lesson Plan</string>
     <string name="module_report">View class record</string>
+    <string name="module_lectures">View available lectures</string>
     <string name="click_restore">Restore</string>
     <string name="click_backup">Backup</string>
+
+    <!--Attendance-->
+    <string name="hint_password">Enter Class Attendance Password</string>
+    <string name="click_attendance">Say Present!</string>
+
+    <!--GetQuiz-->
+    <string name="quiz_click_start">Start Quiz!</string>
+
+
+    <!--Lectures-->
+    <string name="lectures_available">Available Lectures</string>
+    <string name="lectures_saved">Saved Lectures</string>
+    <string name="lecture_click_download">Download this lecture</string>
+    <string name="lecture_click_ask_question">Ask a question</string>
+    <string name="lecture_click_view_discussion">View Discussion</string>
+    <string name="lecture_hint_ask_question">Ask something about the lecture</string>
+    <string name="lecture_check_anonymous">Send as anonymous</string>
+    <string name="lecture_click_send_question">Send</string>
+    <string name="lecture_title_ask_question">Join the discussion</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>
